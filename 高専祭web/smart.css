@@ -16,7 +16,7 @@ body{
     background-image: url(img/bg_img_s.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  /*background-position: center center;*/
 }
 
 /**********  wrapper  **************/
@@ -33,7 +33,7 @@ body{
 }
 .left_box{
     /*padding: 16px;*/
-    margin-top: 90%;
+    margin-top: 240%;
     margin-bottom: 3%;
     text-align: center;
 }
